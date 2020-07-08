@@ -1,7 +1,6 @@
 #ifndef __LayerExBase__
 #define __LayerExBase__
 
-#include <windows.h>
 #include "tp_stub.h"
 
 /**
